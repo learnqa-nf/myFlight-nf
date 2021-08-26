@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-trunk
+Project("") = "MyFlightGUIAppDesktop", "..\..\..\AppData\Local\Temp\TD_80\15.51.0.0_952\4fe0791e\Test\221\221\221\Test.tsp", "9B93410B-3D70-4527-B52B-4EBFF5E7A781"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = [QC-TEST];;Subject\My Flight Desktop\MyFlightGUIAppDesktop;;
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		9B93410B-3D70-4527-B52B-4EBFF5E7A781.Debug|Any CPU.Build.0 = Debug|Any CPU
+		9B93410B-3D70-4527-B52B-4EBFF5E7A781.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		9B93410B-3D70-4527-B52B-4EBFF5E7A781.Release|Any CPU.Build.0 = Release|Any CPU
+		9B93410B-3D70-4527-B52B-4EBFF5E7A781.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
